@@ -288,12 +288,6 @@ img {
 .btn-rounded {
   border-radius: 5px;
 }
-/*
-.btn-xl {
-	font-size: 2rem;
-	padding: 1.5rem 2.1rem;
-	text-transform: uppercase;
-}*/
 
 .btn-xl {
   font-size: 2rem;
@@ -307,7 +301,7 @@ img {
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 990px) {
   .showcase {
     height: 60vh;
   }
@@ -364,14 +358,7 @@ img {
   .showcase:after {
     box-shadow: inset 80px 80px 250px #000000, inset -80px -80px 250px #000000;
   }
-  /*
-	.shoowcase-content {
-		display: grid;
-		justify-content: center;
-		text-align: center;
-		text-align: center;
-	}
-*/
+
   .showcase-content h1 {
     font-size: 3.3rem;
   }
