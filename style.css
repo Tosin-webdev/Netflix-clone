@@ -303,7 +303,7 @@ img {
 
 @media screen and (max-width: 990px) {
   .showcase {
-    height: 60vh;
+    height: 50vh;
   }
   .hide-sm {
     display: none;
